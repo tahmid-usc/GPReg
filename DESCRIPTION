@@ -1,0 +1,11 @@
+Package: GPReg
+Type: Package
+Title: Gaussian Process Regression
+Version: 0.1.0
+Author: Tahmidul Islam
+Maintainer: The package maintainer <islamt@email.sc.edu>
+Description: Fits Gaussian process regression with numerical optimization
+License: 
+Encoding: UTF-8
+LazyData: TRUE
+Imports: mvtnorm, kernlab
